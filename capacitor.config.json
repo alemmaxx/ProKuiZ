@@ -1,6 +1,6 @@
 {
-  "appId": "com.prokuiz.app",
-  "appName": "ProKuiz",
+  "appId": "com.prokuiz.bijak",
+  "appName": "ProKuiz Bijak",
   "webDir": "www",
   "android": { "backgroundColor": "#FFF3C9" }
 }

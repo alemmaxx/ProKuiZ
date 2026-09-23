@@ -1,8 +1,8 @@
 {
-  "name": "prokuiz-tahun1",
+  "name": "prokuiz-bijak",
   "version": "1.0.0",
   "private": true,
-  "description": "ProKuiz Tahun 1 - app kuiz untuk murid",
+  "description": "ProKuiz Bijak - kuiz Prasekolah hingga Tahun 6 dan PKSK",
   "dependencies": {
     "@capacitor/android": "^7.0.0",
     "@capacitor/core": "^7.0.0"
