@@ -1,0 +1,6 @@
+{
+  "appId": "com.kuizpintar.tahun1",
+  "appName": "Kuiz Pintar",
+  "webDir": "www",
+  "android": { "backgroundColor": "#FFF3C9" }
+}

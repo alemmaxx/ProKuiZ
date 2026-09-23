@@ -1,0 +1,30 @@
+KUIZ PINTAR TAHUN 1 - CARA BINA APK (PERCUMA)
+=============================================
+
+Isi pakej:
+  www/index.html                 -> app kuiz (boleh juga dibuka terus dalam browser)
+  assets/icon.png, splash.png    -> ikon app & skrin pembuka
+  package.json, capacitor.config.json
+  .github/workflows/bina-apk.yml -> arahan untuk GitHub bina APK
+
+LANGKAH
+1. Daftar akaun percuma di https://github.com (kalau belum ada).
+2. Tekan "+" (atas kanan) > "New repository". Nama: kuiz-pintar. Pilih Private atau Public, kemudian "Create repository".
+3. Tekan "uploading an existing file". Seret SEMUA isi folder ini (selepas unzip) ke dalam halaman itu, kemudian tekan "Commit changes".
+   - Semak folder ".github" turut dimuat naik. Kalau tiada, buat sendiri:
+     "Add file" > "Create new file", namakan  .github/workflows/bina-apk.yml
+     dan tampal kandungan fail bina-apk.yml, kemudian "Commit changes".
+4. Buka tab "Actions". Proses "Bina APK" akan berjalan sendiri (lebih kurang 5-8 minit).
+   Kalau tak berjalan: pilih "Bina APK" > "Run workflow".
+5. Bila ada tanda hijau, klik proses itu. Di bahagian "Artifacts", muat turun "KuizPintar-APK" (fail zip).
+6. Unzip untuk dapatkan KuizPintar.apk, kemudian hantar ke telefon Android (WhatsApp / Google Drive / kabel).
+7. Buka fail itu di telefon dan benarkan "Install unknown apps" bila diminta. Kalau Play Protect beri amaran,
+   tekan "More details" > "Install anyway" (biasa berlaku untuk app yang tidak dari Play Store).
+
+NAK UBAH SOALAN?
+  Edit www/index.html (bahagian "Bank soalan"). Upload semula ke GitHub dan APK baru akan dibina secara automatik.
+
+NOTA
+  - App berfungsi tanpa internet. Kalau ada internet, font lebih cantik dimuatkan.
+  - Rekod keputusan disimpan dalam telefon itu sahaja. Butang "Padam semua rekod" ada di skrin Rekod.
+  - Semasa pasang versi baru, rekod lama kekal jika app tidak di-uninstall.
