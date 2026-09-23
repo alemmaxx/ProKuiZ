@@ -25,6 +25,7 @@ jobs:
       - name: Sediakan projek Android
         run: |
           npx cap add android
+          if [ -f scripts/android-patch.js ]; then node scripts/android-patch.js; fi
           npx cap sync android
 
       - name: Jana ikon app
