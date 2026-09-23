@@ -1,8 +1,8 @@
 {
-  "name": "prokuiz-bijak",
+  "name": "prokuiz-iqra-junior",
   "version": "1.0.0",
   "private": true,
-  "description": "ProKuiz Bijak - kuiz Prasekolah hingga Tahun 6 dan PKSK",
+  "description": "ProKuiz Iqra Junior - latihan Iqra 1 hingga 6 untuk prasekolah",
   "dependencies": {
     "@capacitor/android": "^7.0.0",
     "@capacitor/core": "^7.0.0"
