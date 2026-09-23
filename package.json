@@ -1,8 +1,8 @@
 {
-  "name": "kuiz-pintar-tahun1",
+  "name": "prokuiz-tahun1",
   "version": "1.0.0",
   "private": true,
-  "description": "Kuiz Pintar Tahun 1 - app kuiz untuk murid",
+  "description": "ProKuiz Tahun 1 - app kuiz untuk murid",
   "dependencies": {
     "@capacitor/android": "^7.0.0",
     "@capacitor/core": "^7.0.0"

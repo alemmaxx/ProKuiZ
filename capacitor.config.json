@@ -1,6 +1,6 @@
 {
-  "appId": "com.kuizpintar.tahun1",
-  "appName": "Kuiz Pintar",
+  "appId": "com.prokuiz.app",
+  "appName": "ProKuiz",
   "webDir": "www",
   "android": { "backgroundColor": "#FFF3C9" }
 }
