@@ -1,4 +1,4 @@
-PROKUIZ IQRA JUNIOR (IQRA 1-6) - CARA BINA APK (PERCUMA)
+PROKUIZ INTELEK (TINGKATAN 1-3) - CARA BINA APK (PERCUMA)
 =============================================
 
 Isi pakej:
@@ -9,7 +9,7 @@ Isi pakej:
 
 LANGKAH
 1. Daftar akaun percuma di https://github.com (kalau belum ada).
-2. Tekan "+" (atas kanan) > "New repository". Nama: prokuiz-iqra-junior. Pilih Private atau Public, kemudian "Create repository".
+2. Tekan "+" (atas kanan) > "New repository". Nama: prokuiz-intelek. Pilih Private atau Public, kemudian "Create repository".
 3. Tekan "uploading an existing file". Seret SEMUA isi folder ini (selepas unzip) ke dalam halaman itu, kemudian tekan "Commit changes".
    - Semak folder ".github" turut dimuat naik. Kalau tiada, buat sendiri:
      "Add file" > "Create new file", namakan  .github/workflows/bina-apk.yml

@@ -1,6 +1,6 @@
 {
-  "appId": "com.prokuiz.iqrajunior",
-  "appName": "ProKuiz Iqra Junior",
+  "appId": "com.prokuiz.intelek",
+  "appName": "ProKuiz Intelek",
   "webDir": "www",
   "android": { "backgroundColor": "#FFF3C9" }
 }

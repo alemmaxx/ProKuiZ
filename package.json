@@ -1,8 +1,8 @@
 {
-  "name": "prokuiz-iqra-junior",
+  "name": "prokuiz-intelek",
   "version": "1.0.0",
   "private": true,
-  "description": "ProKuiz Iqra Junior - latihan Iqra 1 hingga 6 untuk prasekolah",
+  "description": "ProKuiz Intelek - kuiz Tingkatan 1 hingga 3 (KSSM)",
   "dependencies": {
     "@capacitor/android": "^7.0.0",
     "@capacitor/core": "^7.0.0"
