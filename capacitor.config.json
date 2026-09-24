@@ -1,6 +1,6 @@
 {
-  "appId": "com.prokuiz.intelek",
-  "appName": "ProKuiz Intelek",
+  "appId": "com.prokuiz.intelekpro",
+  "appName": "ProKuiz IntelekPro",
   "webDir": "www",
   "android": { "backgroundColor": "#FFF3C9" }
 }
