@@ -1,0 +1,18 @@
+{
+  "name": "prokuiz-bijak",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ProKuiz Bijak - kuiz Prasekolah hingga Tahun 6 dan PKSK",
+  "prokuiz": {
+    "mic": false
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/app": "^8.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.0.0"
+  }
+}

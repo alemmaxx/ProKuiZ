@@ -1,0 +1,18 @@
+{
+  "name": "prokuiz-intelekpro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ProKuiz IntelekPro - kuiz Tingkatan 4 dan 5 (KSSM)",
+  "prokuiz": {
+    "mic": false
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/app": "^8.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.0.0"
+  }
+}
